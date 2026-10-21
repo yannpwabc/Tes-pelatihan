@@ -9,7 +9,7 @@ body {
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
   background-color: black;
-  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+  border-radius: 10px; /* Membuat sudut menjadi melengkung */
 box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan */
   text-align: center;  /* nengahin semua teks dlm kartu */
 }
