@@ -1,0 +1,21 @@
+body {
+  background-color: #DC143C; /* Warna red crimson */
+  font-family: Times New Roman; /* jenis huruf jelas */
+  color: #15eac1; /* Warna teks utama (biru toska) */
+}
+
+.kartu profil {
+  width: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+  background-color: black;
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan */
+  text-align: center;  /* nengahin semua teks dlm kartu */
+}
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* trik ngebuat gambar persegi jdi lingkaran sempurna */
+}
